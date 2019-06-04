@@ -1,12 +1,12 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-
-function User() {
-  return (
-    <div>
-      Primeiro componente
-    </div>
-  );
+class User extends Component {
+    render() {
+        return(
+            <div>
+                <h1>Primeiro componente</h1>
+            </div>
+        );
+    }
 }
-
 export default User;
