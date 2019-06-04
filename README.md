@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# react-app
+React, Redux e integração de APIs
+
+# cricação do projeto
+Necessário estar com o node instalado
+https://nodejs.org/en/download/
+
+Windows:
+executar comando no terminal "npx create-react-app react-app", onde "react-app" é o nome do projeto que esta sendo criado.
+>>>>>>> ecbc2f81c7a28d9a40c2a7408c2194c58b24bb67
