@@ -4,7 +4,9 @@ class User extends Component {
     render() {
         return(
             <div>
-                <h1>Primeiro componente</h1>
+                Nome: {this.props.name}
+                <p></p>
+                <img src = {this.props.photo} alt={this.props.name}></img>
             </div>
         );
     }
