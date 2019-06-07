@@ -11,13 +11,13 @@ class AppRotas extends Component {
           <Link to="/">Home</Link>
           <Link to="/user">Usuario</Link>        
         </div>  
-        
-        {routesConfig.map((value, key) =>{
-          return <Route 
+        {routesConfig.map((value, key) => {
+          return <Route
             key={key}
             path={value.path}
-            Component={value.component}
-            exact={value.exact} ></Route>
+            component={value.component}
+            exact={value.exact}
+          ></Route>
         })}        
       </div>
     );

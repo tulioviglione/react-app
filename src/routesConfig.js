@@ -1,5 +1,5 @@
-import Home from './pages/home/Home'
-import User from './pages/user/User'
+import Home from "./pages/home/Home";
+import User from "./pages/user/User";
 
 const routesConfig = [
     {
@@ -11,6 +11,7 @@ const routesConfig = [
         path:"/user",
         component:User,
         exact:true
-    }
+    },
 ]
+
 export default routesConfig
