@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 
-class List extends Component {
+class User extends Component {
     
     render() {
         let list = [
             {
-                name:"Usuario1",
-                email:"usuario1@email.com"
+                name:"Usuario3",
+                email:"usuario3@email.com"
             },
             {
-                name:"Usuario2",
-                email:"usuario2@email.com"
+                name:"Usuario4",
+                email:"usuario4@email.com"
             }
         ]
         
@@ -38,4 +38,4 @@ class List extends Component {
         );
     }
 }
-export default List;
+export default User;
