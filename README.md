@@ -11,6 +11,21 @@ executar comando no terminal "npx create-react-app react-app", onde "react-app" 
 ## Instalação React Router
 executar comando "npm i react-router-dom"
 
+## Instalação Redux
+Container Javascript que controla o estado da sua aplicação
+
+### 'npm i redux'
+Instala redux
+
+### 'npm i react-redux'
+Instala react-redux
+
+### 'npm i redux-thunk'
+instala redux-thunk
+
+### 'npm i redux-form'
+Instala redux-form
+
 ## Available Scripts
 
 In the project directory, you can run:
