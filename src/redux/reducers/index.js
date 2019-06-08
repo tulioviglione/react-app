@@ -1,8 +1,8 @@
-import { combineReducers } from 'redux';
+import { combineReducers } from "redux"
 import {
-    reducer as reduxFormReducer
-} from 'redux-form';
+     reducer as reduxFormReducer
+} from 'redux-form'
 
 export default combineReducers({
-    form: reduxFormReducer
+    form:reduxFormReducer
 })
