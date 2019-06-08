@@ -8,6 +8,12 @@ https://nodejs.org/en/download/
 Windows:
 executar comando no terminal "npx create-react-app react-app", onde "react-app" é o nome do projeto que esta sendo criado.
 
+##Arquivo para teste de integração com API
+
+### teste-api.jar
+Para executar o arquivo, acessar pasta via terminal e executar comando 'java -jar teste-api.jar'
+API esta sendo executada na porta 8080
+
 ## Instalação React Router
 executar comando "npm i react-router-dom"
 
